@@ -1,0 +1,85 @@
+{
+    "items": [
+      {
+        "name": "Disposable mask - 50PCS",
+        "description": "In Stock",
+        "color": "Blue",
+        "price": "$100",
+        "image_link": "https://shikaboo.com/wp-content/uploads/2021/01/main_blue_new.jpg"
+    }, {
+      "name": "Disposable mask - 50PCS",
+      "color": "Black",
+      "description": "In Stock",
+      "price":  "$150",
+      "image_link":"https://images-na.ssl-images-amazon.com/images/I/71KyBdkKiIL._AC_SL1001_.jpg"
+    }, {
+      "name": "Customize Your Own Face Mask",
+      "color": "Choose Any",
+      "description": "In Stock",
+      "price":  "$30",
+      "image_link": "https://i2.wp.com/styleloft-boutique.com/wp-content/uploads/2020/05/download-12.png?fit=540%2C540&ssl=1"
+    }, {
+      "name": "Automatic Sanitizer Dispenser",
+      "color": "white",
+      "description": "In Stock",
+      "price":  "$200",
+      "image_link": "https://s.yimg.com/aah/yhst-98109100526289/touchless-automatic-hand-sanitizer-dispenser-with-stand-69.jpg"
+    },{
+      "name": "Clorox Disinfecting Wipes",
+      "color": "Assorted",
+      "description": "In Stock",
+      "price":  "$175",
+      "image_link": "https://cleanproduct.store/wp-content/uploads/2020/04/81PCyDvvn0L._AC_SL1500_.jpg"
+    },{
+      "name": "Lysol Disinfecting Wipes",
+      "color": "Add To Cart",
+      "description": "In Stock",
+      "price":  "$250",
+      "image_link": "https://www.mfssupply.com/4368865_01-01.jpg"
+    },{
+      "name": "Lysol Disinfecting Wipes and Spray Value Pack Bundle",
+      "color": "Add To Cart",
+      "description": "In Stock",
+      "price":  "$160",
+      "image_link": "https://www.mfssupply.com/4368865_01-01.jpg"
+    },{
+      "name": "Lysol Disinfecting Spray, Pack Of Two",
+      "color": "Add To Cart",
+      "description": "In Stock",
+      "price":  "$160",
+      "image_link": "https://m.media-amazon.com/images/I/81Yk3TdBaJS._AC_SL1500_.jpg"
+    },{
+      "name": "Digital Thermometer",
+      "color": "white",
+      "description": "In Stock",
+      "price":  "$150",
+      "image_link": "https://www.acsmaterial.com/pub/media/catalog/product/p/r/product-web_image.jpg"
+    },{
+      "name":" No Mask No Entry Poster, Single",
+      "color": "Add To Cart",
+      "description": "In Stock",
+      "price": "$10",
+      "image_link": "https://cdn11.bigcommerce.com/s-5d127/images/stencil/1280x1280/products/3417/4064/WS28889-14__32786__61728.1594326874.jpg?c=2"
+    },{
+      "name": "Sanitize On Entry Poster, Single",
+      "color": "Add To Cart",
+      "description": "In Stock",
+      "price":  "$10",
+      "image_link":"https://i.pinimg.com/736x/33/a3/5d/33a35dc2979269355cb57e608bdd2ff0.jpg"
+    },{
+      "name": "Log Book",
+      "color":"Blue",
+      "description": "In Stock",
+      "price":  "$8",
+      "image_link": "https://sinarline.com/wp-content/uploads/2021/02/RegisterA43QR.jpg"
+    },{
+      "name": "Ballpoint Pens",
+      "color":"Assorted",
+      "description": "In Stock",
+      "price":  "$20",
+      "image_link": "https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/PAAP012984_papermate_inkjoy_100_ballpoint_pens_assorted_10_pack.jpg"
+  
+    }
+  ]
+  }
+  
